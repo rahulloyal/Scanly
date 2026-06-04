@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/Direct_Download_Scanly_APK-v1.0.0-emerald?style=for-the-badge&logo=android&logoColor=white&color=059669" alt="Download APK" />
   </a>
   <p><em>Get the latest build for Android! Experience full-screen native interaction, safe notifications-padding, and lightning-fast QR code creation on the go.</em></p>
-  <p><sub><strong>⚠️ Note:</strong> The direct download link will show a GitHub 404 error until you push the repository and create the Release <code>v1.0.0</code> with the uploaded file named <code>Scanly.apk</code>.</sub></p>
 </div>
 
 ---
@@ -115,22 +114,6 @@
 3. Locate the downloaded file on your Android device and open it.
 4. *If prompted, allow installations from unknown sources in browser/files settings.*
 5. Launch **Scanly** from your application drawer and start generating QR codes!
-
-### Local Development / Preview Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/rahulloyal/Scanly.git
-   cd Scanly
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the Next.js development server:
-   ```bash
-   npm run dev
-   ```
-4. Open [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ---
 
